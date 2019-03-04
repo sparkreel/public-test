@@ -11,5 +11,5 @@ npm install
 ## How to run
 
 ```
-Node index.js 
+node index.js 
 ```
