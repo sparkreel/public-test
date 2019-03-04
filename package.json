@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sparkreel/public-test/issues"
   },
-  "homepage": "https://github.com/sparkreel/public-test#readme"
+  "homepage": "https://github.com/sparkreel/public-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
